@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lane-tech
 - 👀 I’m interested in constru projetos 
-- 🌱 I’m currently learning  html , css, js
+- 🌱 I’m currently learning  html , css, js e linguagem c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
